@@ -1,8 +1,9 @@
 # Overview
 
-# 1)Build a word guessing game, in which guesses a word from list.
+# 1)Build a word guessing game, in which user guesses a word from list.
 # 2)Let’s say User selected a character if it's in the list it will move to next character to guess.
-# 3)Character will bw choose random from the list by system  using random module
+# if its select all the character correct then the program will end.
+# 3)A random module will select random words from the list to guess for user.
 
 # requirement
 # random module
@@ -12,7 +13,7 @@ import random
 Name = input("Enter your name:")
 print("Good luck", Name)
 
-words = ['mercedes', 'ferrari', 'ford', 'buggati', 'tata', 'suzuki', 'audi']
+words = ['mercedes', 'ferrari', 'ford', 'maclaren', 'tata', 'suzuki', 'audi']
 word = random.choice(words)
 
 print("Guess the  characters of car")
@@ -45,4 +46,3 @@ while turns > 0:
         print("You have", + turns, "left")
         if turns == 0:
             print("you loose")
-
