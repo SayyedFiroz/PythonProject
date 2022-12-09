@@ -1,8 +1,8 @@
 # Overview
 
-# 1)Build a word guessing game, in which the user selects a word from list.
+# 1)Build a word guessing game, in which guesses a word from list.
 # 2)Let’s say User selected a character if it's in the list it will move to next character to guess.
-# 3)Character will bw choose random from the list by system
+# 3)Character will bw choose random from the list by system  using random module
 
 # requirement
 # random module
