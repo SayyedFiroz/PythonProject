@@ -11,15 +11,15 @@ if playing.lower() != "yes" :
 print("Let's Play....")
 
 score = 0
-answer = input("what does cpu stand for? ")
-if answer == "central processing unit":
+answer = input("tumhara khuda kon hai?")
+if answer == "allah":
     print("correct")
     score +=1
 else:
     print("Incorrect")
 
-answer = input("what does ram stand for? ")
-if answer == "random access memory":
+answer = input("pehle imam kon hai?")
+if answer == "imam ali":
     print("correct")
     score += 1
 else:

@@ -31,14 +31,3 @@ cursor.executemany("insert into bhelpuri values (?,?,?,?)", ingredients)
 cursor.executemany("insert into whitepeaspuri values (?,?,?,?)", ingredientss)
 
 
-for i in cursor.execute('select * from panipuri'):
-    print(i)
-
-for i in cursor.execute('select * from bhelpuri'):
-    print(i)
-for i in cursor.execute('select * from whitepeaspuri'):
-    print(i)
-
-cursor.fetchall()
-
-connection.close()

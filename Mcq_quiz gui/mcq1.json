@@ -1,0 +1,38 @@
+{
+  "question": [
+                "Q1. What is Class in python?",
+                "Q2. Meaning of word polymorphism?",
+                "Q3. All the variable in python is ?",
+                "Q4. which is used to denote alis in python?"
+  ],
+  "answer": [
+                1,
+                3,
+                3,
+                4
+  ],
+  "options":[
+    ["blueprint",
+      "instance",
+      "module",
+      "function"
+    ],
+    [
+      "many steps",
+      "many forms",
+      "many name",
+      "many objet"
+    ],
+    ["method",
+      "class",
+      "object",
+      "attribute"
+    ],
+    [
+      "aas",
+      "al",
+      "ai",
+      "as"
+    ]
+  ]
+}

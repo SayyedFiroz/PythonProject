@@ -1,38 +1,38 @@
 {
   "question": [
-                "Q1. What is Class in python?",
-                "Q2. Meaning of word polymorphism?",
-                "Q3. All the variable in python is ?",
-                "Q4. which is used to denote alis in python?"
+                "Q1. Who is your God?",
+                "Q2. Who is your first imam?",
+                "Q3. What is the date of Eid-e Ghadeer  ?",
+                "Q4. Which of these is wajib?"
   ],
   "answer": [
                 1,
-                2,
                 3,
-                4
+                3,
+                2
   ],
   "options":[
-    ["blueprint",
-      "instance",
-      "module",
-      "function"
+    ["Allah",
+      "Jesus",
+      "Abraham",
+      "Isa"
     ],
     [
-      "many steps",
-      "many forms",
-      "many name",
-      "many objet"
+      "Imam hassan",
+      "Imam hussein",
+      "Imam ali",
+      "Imam jaffer"
     ],
-    ["method",
-      "class",
-      "object",
-      "attribute"
+    ["18 Muharram",
+      "12 Rajab",
+      "18 Zilhajj",
+      "3 Ramzan"
     ],
     [
-      "aas",
-      "al",
-      "ai",
-      "as"
+      "Quran",
+      "Namaz",
+      "Sacrifice of Goat",
+      "Azadari"
     ]
   ]
 }
